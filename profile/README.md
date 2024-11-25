@@ -6,6 +6,8 @@
 <p><strong>What is Little Nightmares APK?</strong><br />
 <em>Little Nightmares APK</em> offers players a thrilling and terrifying experience as they take control of a young girl named Six. Trapped in a grotesque and unsettling world, players must navigate through eerie environments, solving puzzles while avoiding monstrous threats. The game is renowned for its chilling atmosphere, intricate puzzles, and dark, twisted storyline that will keep you on edge from start to finish.</p>
 
+![photo_2024-11-26_00-35-11](https://github.com/user-attachments/assets/bc1770c0-21c4-4f49-93d0-94f72e839b84)
+
 <table>
 	<thead>
 		<tr>
